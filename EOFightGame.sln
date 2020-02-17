@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EOFightGame", "EOFightGame\EOFightGame.csproj", "{37CD3558-F9A6-4D3A-AEF2-20ED2DA6E82A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37CD3558-F9A6-4D3A-AEF2-20ED2DA6E82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CD3558-F9A6-4D3A-AEF2-20ED2DA6E82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CD3558-F9A6-4D3A-AEF2-20ED2DA6E82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CD3558-F9A6-4D3A-AEF2-20ED2DA6E82A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A7915CF-957F-407D-B97B-3DE61477F148}
+	EndGlobalSection
+EndGlobal
